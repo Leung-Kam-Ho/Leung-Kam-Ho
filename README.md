@@ -1,16 +1,22 @@
-## Hi there 👋
+```python
+class Male:
+    def __init__(self):
+        self.name = "LEUNG Kam HO"
+        self.school = "HKPOLYU"
+        self.bachelor = "Electronics and Information Engineering"
+        self.interests = ["VLA", "AI", "Machine Learning", "Robotics", "Automation"]
+        self.languages = ["Python", "Swift", "C++"]
+        self.status = "Playing with Robotics Arm"
+    
+    def code(self):
+        return "print('What's Up!')"
+    
+    def learn(self):
+        return "How not to get hit by robotics arm?"
+    
+    def __str__(self):
+        return f"{self.name} | {self.bachelor} @ {self.school}"
 
-<!--
-**Leung-Kam-Ho/Leung-Kam-Ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+me = Male()
+print(me)  # LEUNG Kam HO | Electronics and Information Engineering @ HKPOLYU
+```
