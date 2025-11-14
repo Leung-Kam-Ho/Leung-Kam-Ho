@@ -8,6 +8,7 @@ class Male:
         self.interests = ["VLA", "Machine Learning", "Data Analysis", "Robotics", "Automation"]
         self.languages = ["Python", "Swift", "C++"]
         self.status = "Playing with Robotics Arm"
+        self.open_to_work = False
     
     def code(self):
         return "print('What's Up!')"
