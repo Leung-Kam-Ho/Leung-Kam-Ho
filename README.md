@@ -5,7 +5,7 @@ class Male:
         self.name = "LEUNG Kam HO"
         self.school = "HKPOLYU"
         self.bachelor = "Electronics and Information Engineering"
-        self.interests = ["VLA", "AI", "Machine Learning", "Robotics", "Automation"]
+        self.interests = ["VLA", "Machine Learning", "Data Analysis", "Robotics", "Automation"]
         self.languages = ["Python", "Swift", "C++"]
         self.status = "Playing with Robotics Arm"
     
