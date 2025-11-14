@@ -16,6 +16,7 @@ class Male:
     def youtube(self):
         """My Youtube Channel"""
         return "https://www.youtube.com/@kamho350"
+
     def linkedin(self):
         """My Linkedin"""
         return "https://www.linkedin.com/in/kam-ho-leung-b848a0269/"
