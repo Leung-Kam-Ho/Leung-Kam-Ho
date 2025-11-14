@@ -10,7 +10,7 @@ class Male:
         self.status = "Playing with Robotics Arm"
         self.open_to_work = False
     
-    def code(self):
+    def greetings(self):
         return "print('What's Up!')"
 
     def youtube(self):
