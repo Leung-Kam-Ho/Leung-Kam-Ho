@@ -33,3 +33,7 @@ print(me.youtube())     # ▶️ https://www.youtube.com/@kamho350
 print(me.linkedin())    # 🔗 https://www.linkedin.com/in/kam-ho-leung-b848a0269/
 
 ```
+
+# Icon Design
+
+<img width="2032" height="1086" alt="Screenshot 2025-11-28 at 3 39 48 PM" src="https://github.com/user-attachments/assets/32b5a7fa-86ec-4ecb-a95d-f86caadbd976" />
