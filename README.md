@@ -36,4 +36,5 @@ print(me.linkedin())    # 🔗 https://www.linkedin.com/in/kam-ho-leung-b848a026
 
 # Icon Design
 
-<img width="2032" height="1086" alt="Screenshot 2025-11-28 at 3 39 48 PM" src="https://github.com/user-attachments/assets/32b5a7fa-86ec-4ecb-a95d-f86caadbd976" />
+<img width="1944" height="756" alt="Screenshot 2025-11-28 at 3 40 42 PM" src="https://github.com/user-attachments/assets/cc78feda-8fc9-4471-9927-7d00e68570cb" />
+
