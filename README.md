@@ -5,9 +5,17 @@ class Male:
         self.name = "LEUNG Kam HO"
         self.school = "HKPOLYU"
         self.bachelor = "Electronics and Information Engineering"
-        self.interests = ["🧠 Machine Learning", "📊 Data Analysis", "🤖 Robotics", "⚙️ Automation", "🎨 UI Design"]
+        self.interests = [
+            "🧠 Machine Learning",
+            "📊 Data Analysis",
+            "🤖 Robotics",
+            "⚙️ Automation",
+            "🎨 UI Design",
+            "🍏 Mac Robotics"
+        ]
         self.languages = ["🐍 Python", "🍏 Swift", "💻 C++"]
-        self.status = "🔧 Playing with Robotics Arm"
+        self.status = "🔧 Playing with Robotics Arm on macOS"
+        self.mission = "🚀 Make serious robotics development possible on Mac"
         self.open_to_work = False
     
     def greetings(self):
@@ -22,15 +30,20 @@ class Male:
         return "🔗 https://www.linkedin.com/in/kam-ho-leung-b848a0269/"
     
     def question(self):
-        return "🤔 How not to get hit by robotics arm?"
-    
+        return "🤔 How not to get hit by robotics arm running on a Mac?"
+
+    def mac_robotics(self):
+        """Mac + Robotics"""
+        return "🧪 Porting robotics tools & robot arm control to macOS so your Mac can be a real robotics workstation."
+
     def __str__(self):
-        return f"🤖 {self.name} | {self.bachelor} @ {self.school} 🎓"
+        return f"🤖 {self.name} | {self.bachelor} @ {self.school} 🎓 | 🍏 Mac Robotics Explorer"
 
 me = Male()
-print(me)               # 🤖 LEUNG Kam HO | Electronics and Information Engineering @ HKPOLYU 🎓
+print(me)               # 🤖 LEUNG Kam HO | Electronics and Information Engineering @ HKPOLYU 🎓 | 🍏 Mac Robotics Explorer
 print(me.youtube())     # ▶️ https://www.youtube.com/@kamho350
 print(me.linkedin())    # 🔗 https://www.linkedin.com/in/kam-ho-leung-b848a0269/
+print(me.mac_robotics())# 🧪 Porting robotics tools & robot arm control to macOS so your Mac can be a real robotics workstation.
 
 ```
 
