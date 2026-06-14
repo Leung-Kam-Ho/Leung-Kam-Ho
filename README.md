@@ -11,11 +11,11 @@ class Male:
             "🤖 Robotics",
             "⚙️ Automation",
             "🎨 UI Design",
-            "🍏 Mac Robotics"
+            "🍏 Robotics on macOS"
         ]
         self.languages = ["🐍 Python", "🍏 Swift", "💻 C++"]
         self.status = "🔧 Playing with Robotics Arm on macOS"
-        self.mission = "🚀 Make serious robotics development possible on Mac"
+        self.mission = "🚀 Make serious robotics development possible on MacOS"
         self.open_to_work = False
     
     def greetings(self):
